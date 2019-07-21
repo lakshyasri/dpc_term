@@ -1,5 +1,3 @@
-# from first import x
-# from first import name
 import quandl
 import pandas as pd
 import numpy as np
